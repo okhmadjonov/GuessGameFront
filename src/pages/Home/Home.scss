@@ -1,0 +1,17 @@
+.homepage {
+  width: 100%;
+  height: 350px;
+  margin: 150px auto;
+
+  .homepage_title {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3em;
+    line-height: 20%;
+    letter-spacing: 2px;
+    color: #292929;
+  }
+}
